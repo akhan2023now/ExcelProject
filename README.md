@@ -4,10 +4,11 @@ Data Source: Kaggle Datasets
 
 The steps:
 - Data Cleaning and preperation
-- Data Analysis
-- Chart and Graph Creation
-- Data Visualization
+- Analyse and visualize the key matrices
+- Data Analysis (add interective elements for data exploration)
+- Data Visualization (Cohesive design elements)
 - Dashboard Layout
+- Chart and Graph Creation
 - Interactivity (explore the data dynamically)
 - Reporting (Dashboard)
 - Testing- Verify dashboard functions and inconsistencies
